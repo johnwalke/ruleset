@@ -1,0 +1,10 @@
+payload:
+  - DOMAIN-SUFFIX,disneyplus.com
+  - DOMAIN-SUFFIX,disney-plus.net
+  - DOMAIN-SUFFIX,disneystreaming.com
+  - DOMAIN-SUFFIX,bamgrid.com
+  - DOMAIN-SUFFIX,cdn.registerdisney.go.com
+  - DOMAIN-SUFFIX,dssott.com
+  - DOMAIN-SUFFIX,disneynow.com
+  - DOMAIN-SUFFIX,adobedtm.com
+  - DOMAIN,playback-cdn.prod2.disney-plus.net
