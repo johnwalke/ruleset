@@ -1,10 +1,12 @@
 payload:
-  - DOMAIN-SUFFIX,api.themoviedb.org
-  - DOMAIN-SUFFIX,api.tmdb.org
-  - DOMAIN-SUFFIX,www.themoviedb.org
-  - DOMAIN-SUFFIX,api.thetvdb.com
+  - DOMAIN-SUFFIX,tmdb.org
+  - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,image.tmdb.org
-  - DOMAIN-SUFFIX,webservice.fanart.tv
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,fanart.tv
-  
+  - DOMAIN-SUFFIX,omdbapi.com
+  - DOMAIN-SUFFIX,rottentomatoes.com
+  - DOMAIN-SUFFIX,imdb.com
+  - DOMAIN-SUFFIX,media-imdb.com
+  - DOMAIN-SUFFIX,emby.media
+
