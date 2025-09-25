@@ -4,3 +4,5 @@ payload:
   - DOMAIN-SUFFIX,www.themoviedb.org
   - DOMAIN-SUFFIX,api.thetvdb.com
   - DOMAIN-SUFFIX,webservice.fanart.tv
+  - DOMAIN-SUFFIX,thetvdb.com
+  - DOMAIN-SUFFIX,fanart.tv
